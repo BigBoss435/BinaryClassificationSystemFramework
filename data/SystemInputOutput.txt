@@ -1,0 +1,1 @@
+The system takes dermoscopic images of skin lesions as an input, and provides melanoma probability from 0-100% as an output.
